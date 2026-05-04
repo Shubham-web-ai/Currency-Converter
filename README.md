@@ -1,27 +1,37 @@
-💱 Currency Converter
+# 💱 Currency Converter
 
-🚀 Built a real-time currency converter using API integration and JavaScript logic.
+## 📌 Description
+This is a Currency Converter web app built using HTML, CSS, and JavaScript.  
+It uses an API to fetch real-time exchange rates and convert currencies instantly.
 
-A simple and efficient Currency Converter application that allows users to convert one currency into another using real-time exchange rates.
+## ✨ Features
+- Real-time currency conversion
+- Supports multiple currencies
+- User-friendly interface
+- Fast and responsive design
 
-📌 Features
-🌍 Convert between multiple currencies
-🔄 Real-time exchange rates (API-based)
-💻 Simple and user-friendly interface
-📱 Responsive design (works on mobile & desktop)
-⚡ Fast and accurate calculations
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Exchange Rate API
 
-Many modern converters use APIs to fetch live exchange rates dynamically for accurate results.
+## 🌐 Live Demo
+🔗 https://peaceful-donut-13bb28.netlify.app
 
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-API: Exchange Rate API (like OpenExchangeRates / Forex API)
+## ⚙️ How to Run
+1. Clone the repository  
+2. Open index.html in your browser  
+3. Enter amount and select currencies  
 
-⚙️ How It Works
-1. User enters amount
-2. Selects From Currency and To Currency
-3. Application fetches exchange rate
-4. Displays converted value instantly
+## 📦 API Used
+- Exchange Rate API (for real-time data)
 
-👉 Basic formula used:
-Converted Amount = Amount × Exchange Rate
+## 🚀 Future Improvements
+- Add currency flags
+- Add historical data charts
+- Dark mode support
+
+## 🙋‍♂️ Author
+Shubham
+
